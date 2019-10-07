@@ -10,6 +10,4 @@ fourth line
 
 fifth line
 
-
-
 seventh line
